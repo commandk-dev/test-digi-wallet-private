@@ -2,6 +2,7 @@ export interface SignupInitParams {
   readonly fullname: string;
   readonly dateOfBirth: string;
   readonly address: string;
+  readonly email: string;
 }
 
 export type SignupStatus = "IN_PROGRESS" | "COMPLETE";
