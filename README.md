@@ -3,4 +3,4 @@
 
 A Project that simulates a microservices architecture of a digital wallet. 
 
-bump version7
+bump version8
